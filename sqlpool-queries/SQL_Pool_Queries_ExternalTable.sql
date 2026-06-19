@@ -3,9 +3,9 @@
 --      #   Create a Master-Key with the password
 --  ===============================================
 
-CREATE MASTER KEY ENCRYPTION BY PASSWORD = ''<<Password>>'
+CREATE MASTER KEY ENCRYPTION BY PASSWORD = ''<<Password>>';
 
---  ===========================
+-- ===========================
 --      #   Creating a Scope 
 --  ============================
 
